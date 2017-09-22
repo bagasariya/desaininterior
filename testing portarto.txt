@@ -1,0 +1,26 @@
+TESTING 
+
+- edit profile, ketika upload logo image preview tidak muncul
+- foto pojok tidak keluar
+- ketika sudah update profile, username tidak ke update ternyata
+- njir aku bingung, wkwkwkwkw pas daftar iku tulisane nama ya, pas d profile dadi username
+- kalau update contacts pas di save kok mbaleknya ke PI? bukannya tetep di contact ya? yg password juga ya kak
+- username kan udah tak ganti ya, ternyata kalau pake spasi gak bisa ya. wkwkwkw
+- kalau ngopy link dr instagram apa gak bisa ya? apa gara2 ig gue di private ya
+- kan ya lak user anyar ya, wonge pengen ngepost, kan ganok pemberitahuan gawe ngisi category dhisek, opo gak bingung ya, nek aku sih bingung wkwkwk
+- kan moro aku mbuka list category ya, gak sengaja ngeklik delete ya, nah iku pemberitahuane metu error
+- kok gak bisa nambah category ya hhhmmmmm
+- kan ku jadi gak bisa ngepost broooo )):
+- apa emang bisa ngepost tanpa category ya?
+- terus pas udah tak klik submit di post itu kok larinya tetep ke edit post, gak ke list post a yo?
+- rek btw ya kabar buruk temenan iki. buruk nemen. front end e gak kenek he btw
+
+
+
+- rek sg delete post ganok notif "are u sure" ngunu2 iku a?
+
+
+================================================================================================================ yang sudah
+- oh ya ditulisan add post kok ada huruf Z ya, kecil gitu di pojoookkkkkan
+- notif e edit post pas tak ganti published kok dadi "post added", guduk "post edited" a?
+- habis edit post kok larinya tetep di form edit, bukan di list post ya?
